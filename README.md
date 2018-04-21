@@ -10,6 +10,10 @@ Some benefits of Genetic algorithms are the ability to provide a very accurate r
 <br><br>__Limitations of GA.__<br><br>
 Some of the limitations of GA are: the cost of computing the fitness function, they are highly stochastic method, each run usually provides a different solution, so it is better to run several runs with the same parameters to obtain a solution, high dependence on the initial population that is randomly generated, high dependence on parameter settings, that is very hard to tweak, they do not guarantee to find the optimal solution.<br><br>
 
+<br>
+The travelling salesman iPython notebook can be found here<br>
+
+https://github.com/jcanelhas/GAIntro/blob/master/Travel%20Salesman%20GA%20v2.ipynb
 
 The objective of this repo is to serve as an introduction to genetic algorithms.
 
